@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  border: none; 
+  border-style: none;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;   
+  font-weight: 500;
+  font-size: large; 
+  background-color: #f08080;
+}
+
+#myArray{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#sum{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#sum1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.container{
+    border: none; 
+    padding: 10px;
+    border-style: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 7rem;
+    height: 260px;
+    width: 35%;
+    border-radius: 10px;
+    box-shadow:  6px 6px 12px #d16f6f,
+                 -6px -6px 12px #ff9191;
+
+}
